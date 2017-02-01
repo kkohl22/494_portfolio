@@ -3,55 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <title>Home page</title>
-    <link rel="stylesheet" type="text/css" href="homepage%20style.css">
+    <link rel="stylesheet" type="text/css" href="main%20style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="main%20style.css">
 </head>
 <body>
-<p id="top"></p>
-<ul>
-    <li><a href="#top">Home</a></li>
-    <li><a href="#home">About me</a></li>
-    <li><a href="#about">Languages</a></li>
-    <li><a href="#languages">Experience</a></li>
-    <li><a href="#experience">Hackathons</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="">Resume</a></li>
-</ul>
+
+<div id="menu"></div>
 
 <div class="parallax"></div>
 
-<div id="home">
-    This website is designed to showcase my what I've learned and the projects I've worked as a Software Engineer at Iowa State University
+<div class="home">
+    This website is designed to showcase my what I've learned and the projects I've worked on as a Software Engineer at Iowa State University
 </div>
-
-<div class="parallax"></div>
-
-<div id="about">
-    stuff about myself. Include professional looking picture.
-</div>
-
-<div class="parallax"></div>
-
-<div id="languages">
-    Description of the languages I've learned and used
-</div>
-
-<div class="parallax"></div>
-
-<div id="experience">
-    Work experience
-</div>
-
-<div class="parallax"></div>
-
-<div id="hackathon">
-    hack ISU projects
-</div>
-
-<div class="parallax"></div>
-
-<div id="projects">
-    Personal and school projects go here
-</div>
-
 </body>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#menu').load('navbar.html');
+    });
+</script>
+
 </html>
