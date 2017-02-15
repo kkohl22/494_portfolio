@@ -26,10 +26,23 @@ body, html {
 div {
     background-color: #262626;
     color: white;
-    text-align: center;
+/*    text-align: center;*/
     padding: 10px;
+}
 
+h2 {
+    color: white;
+}
 
+.group_projects {
+    float: left;
+}
+p.group_projects {
+    width: 40%;
+}
+
+img.group_projects {
+    padding-left: 4%;
 }
 
 
