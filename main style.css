@@ -23,21 +23,42 @@ body, html {
     background-size: cover;
 }
 
-div {
+.dropdown {
     background-color: #262626;
     color: white;
-/*    text-align: center;*/
+    text-align: center;
     padding: 10px;
-}
-
-h2 {
-    color: white;
+    padding-left: 6%;
 }
 
 .group_projects {
-    float: left;
+    background-color: #262626;
+    color: white;
+    text-align: left;
+    padding: 10px;
+
 }
-p.group_projects {
+
+.healthio {
+    background-color: #262626;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    float: none;
+}
+
+h2 h4 {
+    width: inherit;
+    color: white;
+}
+
+#group_projects {
+    float: left;
+    width: 40%;
+}
+
+#healthio {
+    float: left;
     width: 40%;
 }
 
