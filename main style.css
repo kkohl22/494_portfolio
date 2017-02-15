@@ -47,6 +47,15 @@ body, html {
     float: none;
 }
 
+.gendrone {
+    background-color: #262626;
+    color: white;
+    text-align: center;
+    width: 40%;
+    padding: 10px;
+    float: left;
+}
+
 h2 h4 {
     width: inherit;
     color: white;
