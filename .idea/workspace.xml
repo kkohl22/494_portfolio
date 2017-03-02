@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a96eb47-4b23-47bf-aec0-b4c4499277db" name="Default" comment="Chagned text on general reflection">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work_experience.html" afterPath="$PROJECT_DIR$/work_experience.html" />
     </list>
     <list id="106ee089-6828-4c73-89ad-910189273b83" name="junk" comment="" />
@@ -53,8 +54,8 @@
       <file leaf-file-name="work_experience.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/work_experience.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            <state relative-caret-position="345">
+              <caret line="44" column="42" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#tr#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -291,7 +292,7 @@
       <workItem from="1487812022872" duration="751000" />
       <workItem from="1487860319055" duration="653000" />
       <workItem from="1487957031468" duration="492000" />
-      <workItem from="1488421819759" duration="1031000" />
+      <workItem from="1488421819759" duration="1107000" />
     </task>
     <task id="LOCAL-00001" summary="Created basic layout">
       <created>1485735606002</created>
@@ -437,7 +438,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36545000" />
+    <option name="totallyTimeSpent" value="36621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -731,8 +732,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/work_experience.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        <state relative-caret-position="345">
+          <caret line="44" column="42" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#img#0;n#tr#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
