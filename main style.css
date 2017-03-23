@@ -39,7 +39,7 @@ body, html {
 
 }
 
-.healthio {
+.healthio, .home {
     background-color: #262626;
     color: white;
     text-align: left;
@@ -54,6 +54,13 @@ body, html {
     width: 40%;
     padding: 10px;
     float: left;
+}
+.gen_ed {
+
+    background-color: #262626;
+    color: white;
+    padding: 10px;
+    float: none;
 }
 
 h2 h4 {
