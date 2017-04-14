@@ -10,7 +10,7 @@ body, html {
 /*background image and cool scroll effect*/
 .parallax {
     /* The image used */
-    background-image: url("images/Campanile14.jpg");
+    background-image: url("images/campanile_summer.jpg");
 
     /* Set a specific height */
     min-height: 80%;
